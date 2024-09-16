@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
   return (
-    <footer class="bg-[#DBFBFF] p-4 text-white text-center">
+    <footer class="bg-[#DBFBFF] p-4 text-black text-center">
       <p>&copy; 2024 BONICE. Todos los derechos reservados.</p>
     </footer>
   );
