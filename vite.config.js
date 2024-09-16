@@ -5,7 +5,7 @@ import tailwindcss from "tailwindcss";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/WEB-FE-HTML-TAILWIND-BONICE/',
+  base: 'https://Orun1tia.github.io/WEB-FE-HTML-TAILWIND-BONICE',
   css: {
     postcss: {
       plugins: [tailwindcss()],
